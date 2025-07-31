@@ -1,47 +1,46 @@
 ---
 
-# 💻 Laboratório de Programação I - C++ Essencial e POO
+# 💻 Linguagem de Programação I - C++
 
 ## 🚀 Descrição do Projeto
 
-Este repositório é uma coletânea dos códigos e exercícios práticos desenvolvidos durante a disciplina **IMD0030 - Linguagem de Programação I** na UFRN.
+Este repositório reúne os códigos e exercícios práticos desenvolvidos durante a disciplina **IMD0030 - Linguagem de Programação I** na UFRN.
 
-O foco principal é a exploração dos fundamentos da linguagem **C++** e a aplicação dos conceitos do paradigma de **Programação Orientada a Objetos (POO)**.
+O objetivo principal é explorar os fundamentos da linguagem **C++** e aplicar os conceitos do paradigma de **Programação Orientada a Objetos (POO)** em diferentes contextos.
 
-**Objetivo principal:**
-Servir como um portfólio acadêmico, demonstrando a evolução e a aplicação de técnicas de programação em C++ para a solução de problemas diversos, desde os mais básicos até os mais complexos.
+> 📌 **Propósito:** Servir como portfólio acadêmico e registro do aprendizado, cobrindo desde conceitos básicos até implementações mais avançadas.
 
 ---
 
-## 🧠 Principais Conceitos e Tópicos Abordados
+## 📚 Tópicos e Conceitos Abordados
 
-1. **Fundamentos de C++:**
+### 🔹 Fundamentos de C++
 
-   * Estruturas de controle e repetição (`if`, `else`, `for`, `while`)
-   * Funções, sobrecarga e argumentos padrão
-   * Manipulação de `structs`
-   * Uso da Standard Template Library (STL), com foco em `vector` e `list`
+* Estruturas de controle e repetição: `if`, `else`, `for`, `while`.
+* Funções, sobrecarga e argumentos padrão.
+* Manipulação de `structs`.
+* Uso da **Standard Template Library (STL)**, com foco em `vector` e `list`.
 
-2. **Compilação e Ferramentas:**
+### 🔹 Compilação e Ferramentas
 
-   * Compilação manual com `g++`
-   * Automação de compilação com `Makefile`
-   * Técnicas de depuração de código
+* Compilação manual com `g++`.
+* Automação de compilação com **Makefile**.
+* Técnicas de depuração de código.
 
-3. **Programação Orientada a Objetos (POO):**
+### 🔹 Programação Orientada a Objetos (POO)
 
-   * **Classes e Objetos:** Modelagem de entidades do mundo real
-   * **Encapsulamento:** Proteção de dados com modificadores de acesso (`public`, `private`, `protected`)
-   * **Herança:** Criação de hierarquias de classes para reutilização de código
-   * **Polimorfismo:** Implementação de métodos virtuais para comportamentos dinâmicos
-   * **Abstração:** Uso de classes abstratas e métodos virtuais puros
+* **Classes e Objetos:** Modelagem de entidades do mundo real.
+* **Encapsulamento:** Proteção de dados com modificadores de acesso (`public`, `private`, `protected`).
+* **Herança:** Criação de hierarquias de classes para reutilização de código.
+* **Polimorfismo:** Implementação de métodos virtuais para comportamentos dinâmicos.
+* **Abstração:** Uso de classes abstratas e métodos virtuais puros.
 
-4. **Recursos Avançados de C++:**
+### 🔹 Recursos Avançados de C++
 
-   * **Sobrecarga de Operadores:** Tornando classes mais intuitivas e legíveis
-   * **Templates:** Criação de funções e classes genéricas para máxima reutilização
-   * **Tratamento de Exceções:** Mecanismos de `try`, `catch` e `throw` para um código mais robusto
-   * **Membros Estáticos e Constantes:** Compartilhamento de dados e métodos entre instâncias de uma classe
+* **Sobrecarga de Operadores:** Tornando classes mais intuitivas.
+* **Templates:** Criação de funções e classes genéricas.
+* **Tratamento de Exceções:** Uso de `try`, `catch` e `throw` para código robusto.
+* **Membros Estáticos e Constantes:** Compartilhamento de dados entre instâncias.
 
 ---
 
@@ -82,7 +81,7 @@ make
 ./meu_programa
 ```
 
-> 💡 **Dica:** Para compilar apenas um arquivo simples (ex: `exemplo.cpp`):
+> 💡 **Dica:** Para compilar apenas um arquivo simples:
 >
 > ```bash
 > g++ exemplo.cpp -o exemplo -std=c++17
@@ -93,8 +92,9 @@ make
 
 ## 📚 Referências
 
-* **Slides da disciplina:** O repositório inclui um PDF com todos os slides utilizados durante o curso, que servem como base teórica e prática.
-* **Documentação oficial do C++** para aprofundamento em cada recurso da linguagem.
+* **Slides da disciplina:** O repositório inclui um PDF com todo o material teórico usado no curso.
+* **Documentação oficial do C++:** Referência completa das funcionalidades da linguagem.
+* **Material acadêmico da UFRN:** Conteúdo desenvolvido para a disciplina **IMD0030 - Linguagem de Programação I**, base de todos os exercícios aqui presentes.
 
 ---
 
@@ -105,4 +105,3 @@ make
 Desenvolvido como parte das atividades acadêmicas da disciplina de **Linguagem de Programação I - IMD/UFRN**.
 
 ---
-
